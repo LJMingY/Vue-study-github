@@ -1,2 +1,2 @@
-# Vue-study-github
+# vue-study-github
 使用github来保存vue的代码
